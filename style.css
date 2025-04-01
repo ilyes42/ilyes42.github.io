@@ -74,7 +74,6 @@ h6 {
 
 .section {
   margin: 5rem 0;
-  border: 2px solid #ccc;
   padding: 1rem;
   border-radius: 5px;
   -webkit-box-shadow: 0px 0px 28px 2px rgba(194, 194, 194, 1);
@@ -84,6 +83,11 @@ h6 {
 
 .experience-item {
   margin: 1rem 0;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
 }
 
 @media only screen and (max-width: 600px) {
